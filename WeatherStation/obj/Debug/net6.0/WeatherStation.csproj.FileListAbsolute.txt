@@ -1,0 +1,15 @@
+/Users/karmah24/Source Codes/Design Patterns/WeatherStation/bin/Debug/net6.0/WeatherStation
+/Users/karmah24/Source Codes/Design Patterns/WeatherStation/bin/Debug/net6.0/WeatherStation.deps.json
+/Users/karmah24/Source Codes/Design Patterns/WeatherStation/bin/Debug/net6.0/WeatherStation.runtimeconfig.json
+/Users/karmah24/Source Codes/Design Patterns/WeatherStation/bin/Debug/net6.0/WeatherStation.dll
+/Users/karmah24/Source Codes/Design Patterns/WeatherStation/bin/Debug/net6.0/WeatherStation.pdb
+/Users/karmah24/Source Codes/Design Patterns/WeatherStation/obj/Debug/net6.0/WeatherStation.csproj.AssemblyReference.cache
+/Users/karmah24/Source Codes/Design Patterns/WeatherStation/obj/Debug/net6.0/WeatherStation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karmah24/Source Codes/Design Patterns/WeatherStation/obj/Debug/net6.0/WeatherStation.AssemblyInfoInputs.cache
+/Users/karmah24/Source Codes/Design Patterns/WeatherStation/obj/Debug/net6.0/WeatherStation.AssemblyInfo.cs
+/Users/karmah24/Source Codes/Design Patterns/WeatherStation/obj/Debug/net6.0/WeatherStation.csproj.CoreCompileInputs.cache
+/Users/karmah24/Source Codes/Design Patterns/WeatherStation/obj/Debug/net6.0/WeatherStation.dll
+/Users/karmah24/Source Codes/Design Patterns/WeatherStation/obj/Debug/net6.0/refint/WeatherStation.dll
+/Users/karmah24/Source Codes/Design Patterns/WeatherStation/obj/Debug/net6.0/WeatherStation.pdb
+/Users/karmah24/Source Codes/Design Patterns/WeatherStation/obj/Debug/net6.0/WeatherStation.genruntimeconfig.cache
+/Users/karmah24/Source Codes/Design Patterns/WeatherStation/obj/Debug/net6.0/ref/WeatherStation.dll
