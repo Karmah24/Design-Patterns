@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Duck mallard = new MallardDuck();
+            mallard.display();
             mallard.performQuack();
             mallard.performFly();
             mallard.swim();
