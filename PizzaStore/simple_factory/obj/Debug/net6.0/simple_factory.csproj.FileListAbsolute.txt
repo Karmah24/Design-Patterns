@@ -1,0 +1,15 @@
+/Users/karmah24/Source Codes/Design Patterns/PizzaStore/simple_factory/obj/Debug/net6.0/simple_factory.csproj.AssemblyReference.cache
+/Users/karmah24/Source Codes/Design Patterns/PizzaStore/simple_factory/obj/Debug/net6.0/simple_factory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karmah24/Source Codes/Design Patterns/PizzaStore/simple_factory/obj/Debug/net6.0/simple_factory.AssemblyInfoInputs.cache
+/Users/karmah24/Source Codes/Design Patterns/PizzaStore/simple_factory/obj/Debug/net6.0/simple_factory.AssemblyInfo.cs
+/Users/karmah24/Source Codes/Design Patterns/PizzaStore/simple_factory/obj/Debug/net6.0/simple_factory.csproj.CoreCompileInputs.cache
+/Users/karmah24/Source Codes/Design Patterns/PizzaStore/simple_factory/bin/Debug/net6.0/simple_factory
+/Users/karmah24/Source Codes/Design Patterns/PizzaStore/simple_factory/bin/Debug/net6.0/simple_factory.deps.json
+/Users/karmah24/Source Codes/Design Patterns/PizzaStore/simple_factory/bin/Debug/net6.0/simple_factory.runtimeconfig.json
+/Users/karmah24/Source Codes/Design Patterns/PizzaStore/simple_factory/bin/Debug/net6.0/simple_factory.dll
+/Users/karmah24/Source Codes/Design Patterns/PizzaStore/simple_factory/bin/Debug/net6.0/simple_factory.pdb
+/Users/karmah24/Source Codes/Design Patterns/PizzaStore/simple_factory/obj/Debug/net6.0/simple_factory.dll
+/Users/karmah24/Source Codes/Design Patterns/PizzaStore/simple_factory/obj/Debug/net6.0/refint/simple_factory.dll
+/Users/karmah24/Source Codes/Design Patterns/PizzaStore/simple_factory/obj/Debug/net6.0/simple_factory.pdb
+/Users/karmah24/Source Codes/Design Patterns/PizzaStore/simple_factory/obj/Debug/net6.0/simple_factory.genruntimeconfig.cache
+/Users/karmah24/Source Codes/Design Patterns/PizzaStore/simple_factory/obj/Debug/net6.0/ref/simple_factory.dll
