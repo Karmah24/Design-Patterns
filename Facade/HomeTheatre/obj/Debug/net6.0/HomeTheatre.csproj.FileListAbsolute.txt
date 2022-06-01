@@ -1,0 +1,15 @@
+/Users/karmah24/Source Codes/Design Patterns/Facade/HomeTheatre/obj/Debug/net6.0/HomeTheatre.csproj.AssemblyReference.cache
+/Users/karmah24/Source Codes/Design Patterns/Facade/HomeTheatre/obj/Debug/net6.0/HomeTheatre.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karmah24/Source Codes/Design Patterns/Facade/HomeTheatre/obj/Debug/net6.0/HomeTheatre.AssemblyInfoInputs.cache
+/Users/karmah24/Source Codes/Design Patterns/Facade/HomeTheatre/obj/Debug/net6.0/HomeTheatre.AssemblyInfo.cs
+/Users/karmah24/Source Codes/Design Patterns/Facade/HomeTheatre/obj/Debug/net6.0/HomeTheatre.csproj.CoreCompileInputs.cache
+/Users/karmah24/Source Codes/Design Patterns/Facade/HomeTheatre/bin/Debug/net6.0/HomeTheatre
+/Users/karmah24/Source Codes/Design Patterns/Facade/HomeTheatre/bin/Debug/net6.0/HomeTheatre.deps.json
+/Users/karmah24/Source Codes/Design Patterns/Facade/HomeTheatre/bin/Debug/net6.0/HomeTheatre.runtimeconfig.json
+/Users/karmah24/Source Codes/Design Patterns/Facade/HomeTheatre/bin/Debug/net6.0/HomeTheatre.dll
+/Users/karmah24/Source Codes/Design Patterns/Facade/HomeTheatre/bin/Debug/net6.0/HomeTheatre.pdb
+/Users/karmah24/Source Codes/Design Patterns/Facade/HomeTheatre/obj/Debug/net6.0/HomeTheatre.dll
+/Users/karmah24/Source Codes/Design Patterns/Facade/HomeTheatre/obj/Debug/net6.0/refint/HomeTheatre.dll
+/Users/karmah24/Source Codes/Design Patterns/Facade/HomeTheatre/obj/Debug/net6.0/HomeTheatre.pdb
+/Users/karmah24/Source Codes/Design Patterns/Facade/HomeTheatre/obj/Debug/net6.0/HomeTheatre.genruntimeconfig.cache
+/Users/karmah24/Source Codes/Design Patterns/Facade/HomeTheatre/obj/Debug/net6.0/ref/HomeTheatre.dll
