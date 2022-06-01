@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/karmah24/Source Codes/Design Patterns/SimUDuck/SimUDuck.csproj",
+      "projectUniqueName": "/Users/karmah24/Source Codes/Design Patterns/Strategy/SimUDuck/SimUDuck.csproj",
       "projectName": "SimUDuck",
-      "projectPath": "/Users/karmah24/Source Codes/Design Patterns/SimUDuck/SimUDuck.csproj",
+      "projectPath": "/Users/karmah24/Source Codes/Design Patterns/Strategy/SimUDuck/SimUDuck.csproj",
       "packagesPath": "/Users/karmah24/.nuget/packages/",
-      "outputPath": "/Users/karmah24/Source Codes/Design Patterns/SimUDuck/obj/",
+      "outputPath": "/Users/karmah24/Source Codes/Design Patterns/Strategy/SimUDuck/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/karmah24/.nuget/NuGet/NuGet.Config"
