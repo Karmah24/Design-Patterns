@@ -1,0 +1,15 @@
+/Users/karmah24/Source Codes/Design Patterns/Adapter/Duck_Turkey/bin/Debug/net6.0/Duck_Turkey
+/Users/karmah24/Source Codes/Design Patterns/Adapter/Duck_Turkey/bin/Debug/net6.0/Duck_Turkey.deps.json
+/Users/karmah24/Source Codes/Design Patterns/Adapter/Duck_Turkey/bin/Debug/net6.0/Duck_Turkey.runtimeconfig.json
+/Users/karmah24/Source Codes/Design Patterns/Adapter/Duck_Turkey/bin/Debug/net6.0/Duck_Turkey.dll
+/Users/karmah24/Source Codes/Design Patterns/Adapter/Duck_Turkey/bin/Debug/net6.0/Duck_Turkey.pdb
+/Users/karmah24/Source Codes/Design Patterns/Adapter/Duck_Turkey/obj/Debug/net6.0/Duck_Turkey.csproj.AssemblyReference.cache
+/Users/karmah24/Source Codes/Design Patterns/Adapter/Duck_Turkey/obj/Debug/net6.0/Duck_Turkey.GeneratedMSBuildEditorConfig.editorconfig
+/Users/karmah24/Source Codes/Design Patterns/Adapter/Duck_Turkey/obj/Debug/net6.0/Duck_Turkey.AssemblyInfoInputs.cache
+/Users/karmah24/Source Codes/Design Patterns/Adapter/Duck_Turkey/obj/Debug/net6.0/Duck_Turkey.AssemblyInfo.cs
+/Users/karmah24/Source Codes/Design Patterns/Adapter/Duck_Turkey/obj/Debug/net6.0/Duck_Turkey.csproj.CoreCompileInputs.cache
+/Users/karmah24/Source Codes/Design Patterns/Adapter/Duck_Turkey/obj/Debug/net6.0/Duck_Turkey.dll
+/Users/karmah24/Source Codes/Design Patterns/Adapter/Duck_Turkey/obj/Debug/net6.0/refint/Duck_Turkey.dll
+/Users/karmah24/Source Codes/Design Patterns/Adapter/Duck_Turkey/obj/Debug/net6.0/Duck_Turkey.pdb
+/Users/karmah24/Source Codes/Design Patterns/Adapter/Duck_Turkey/obj/Debug/net6.0/Duck_Turkey.genruntimeconfig.cache
+/Users/karmah24/Source Codes/Design Patterns/Adapter/Duck_Turkey/obj/Debug/net6.0/ref/Duck_Turkey.dll
